@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e2m6xvknsepmphux?svg=true)](https://ci.appveyor.com/project/OlyaMa/mapstar-container)
